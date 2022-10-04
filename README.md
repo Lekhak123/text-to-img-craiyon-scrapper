@@ -5,7 +5,8 @@ A npm package that extracts ai generated image from Craiyon website and returns 
 ```
 npm i text-to-img-craiyon-scrapper
 ```
-
+# To donate to the people at craiyon
+[https://www.craiyon.com/donate](https://www.craiyon.com/donate)
 
 # Example
 
