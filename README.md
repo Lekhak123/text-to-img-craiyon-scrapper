@@ -2,6 +2,8 @@
 A npm package that extracts ai generated image from Craiyon website and returns base64 of the image
 
 
+## NOTE: It usually takes around less than a minute or two to receive the image result.
+
 ```
 npm i text-to-img-craiyon-scrapper
 ```
